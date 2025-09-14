@@ -8,6 +8,16 @@ I got asked by our marketing boss to figure out which YouTubers in the UK would 
 
 Think of it like this: if you're going to spend money on advertising, wouldn't you want to know which option gives you the most customers for your dollar?
 
+## The Dashboard I Made
+
+I created an interactive dashboard that lets you:
+- See all the YouTubers ranked by different metrics
+- Visualize the data with charts and graphs
+- Calculate potential profits for different scenarios
+- Filter and sort the data however you want
+
+Think of it as a control panel that makes all this data easy to understand at a glance.
+<img width="907" height="479" alt="powerbi_dashboard" src="https://github.com/user-attachments/assets/4f7d28df-71be-4479-9b43-d58ba019ee99" />
 
 ## The Data I Used
 
@@ -116,16 +126,7 @@ Here's where it gets interesting. I calculated how much money we could potential
 3. Keep track of how many people actually buy our product
 4. Adjust our strategy based on what actually works
 
-## The Dashboard I Made
 
-I created an interactive dashboard that lets you:
-- See all the YouTubers ranked by different metrics
-- Visualize the data with charts and graphs
-- Calculate potential profits for different scenarios
-- Filter and sort the data however you want
-
-Think of it as a control panel that makes all this data easy to understand at a glance.
-<img width="907" height="479" alt="powerbi_dashboard" src="https://github.com/user-attachments/assets/4f7d28df-71be-4479-9b43-d58ba019ee99" />
 
 ## Why This Matters
 
